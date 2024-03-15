@@ -1,12 +1,16 @@
 ### Hi there 👋
 
+I am Shubhangi Bidkar have a strong background in technology as a Software Engineer at Polaris Softwaree Labs,India  and as a contractor in Capgemini ,USA early in my career. I am a US citizen living in IL,USA. I am looking for Data Analyst/ Data Engineering roles. Passionate about uncovering insights from data and building data-driven solutions. My skills are versatile and adaptable to various industries. I use SQL, Tableau, Excel, and Python to prep, clean, analyze and visualize data.I have a growth mindset looking to apply my new skills and years of experience to help you!
+
+### 🌱 I’m currently learning ...
+ - ETL/ELT data pipelines using Microsoft Azure Data Factory, Azure Data Bricks
+- Performance optimization of Data pipelines in Databricks and Azure DataFactory
+- Power BI
 <!--
 **ShubhangiBidkar/ShubhangiBidkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
